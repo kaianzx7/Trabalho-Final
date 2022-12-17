@@ -1,0 +1,22 @@
+body{
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+margin-top: 250px;
+
+}
+.ajuste{
+    margin-top: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+a{color: white;}
+a:hover {color: aliceblue;}
+
+li{
+    list-style-type: none;
+    font-size: 20px;
+    text-align: center;
+}
